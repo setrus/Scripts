@@ -1,8 +1,7 @@
 #!/bin/bash
-#This is intended to chech if a nmap scan has finished.
-#Running nmap on the host and posting information to request bin
-#This information can be uploaded anywhere.
-#For the time beeing the information is uploaded to request bin.
+#This is intended to check if a nmap scan has finished scannning.
+#Nmap is runnning on a server. Status of the scan can be easily checked and posted on a request.bin server.
+#Although the exfiltration can be done on which ever site
 
 ### Start ###
 echo "[+] Running Script:"
